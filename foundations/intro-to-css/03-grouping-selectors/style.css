@@ -8,3 +8,7 @@
     background-color: #000000;
     color: rgb(255, 255, 255);
 }
+
+.button2 {
+    background-color: hsl(60, 100%, 50%);
+}
